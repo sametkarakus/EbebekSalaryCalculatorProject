@@ -1,7 +1,6 @@
-[ebebek](https://www.e-bebek.com/)
 # EbebekSalaryCalculatorProject
  ## E Bebek Practicum İçin Maaş Hesaplama Projesi
-** Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazıldı. **
+* Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazıldı. **
 Bu sınıf 4 nitelik ve 5 metoda sahip. 
 Konsol çıktısı halinde Adı, maaşı, çalışma saati, başlangıç yılı, vergi, bonus, maaş artışı, vergi ve bonuslarla birlikte maaş, toplam maaş değerlerini konsola yazdırıldı. 
 ### Sınıfın Nitelikleri
@@ -21,5 +20,6 @@ Konsol çıktısı halinde Adı, maaşı, çalışma saati, başlangıç yılı,
 * Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 * toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 ##### Kullanılan Dil
-* [Java] (https://www.java.com/tr/download/)
-- İletişim Bilgileri : (abdulsametkarakus@outlook.com)
+* [Java](https://www.java.com/tr/download/)
+<a href=”mailto: abdulsametkarakus@outlook.com”> E-posta göndermek için tıklayınız.</a>
+- [İletişim]: abdulsametkarakus@outlook.com "Sormak İstedikleriniz İçin"
