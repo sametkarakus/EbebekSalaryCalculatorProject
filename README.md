@@ -22,6 +22,5 @@ Konsol çıktısı halinde Adı, maaşı, çalışma saati, başlangıç yılı,
 ##### Kullanılan Dil
 * [Java](https://www.java.com/tr/download/)
 * [İletişim][Bilgileri]
-
 - [İletişim]: abdulsametkarakus@outlook.com "E-posta göndermek için tıklayınız."
 
