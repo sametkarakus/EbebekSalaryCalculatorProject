@@ -21,4 +21,7 @@ Konsol çıktısı halinde Adı, maaşı, çalışma saati, başlangıç yılı,
 * toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 ##### Kullanılan Dil
 * [Java](https://www.java.com/tr/download/)
-* [İletişim]: abdulsametkarakus@outlook.com "E-posta göndermek için tıklayınız."
+* [İletişim][Bilgileri]
+
+- [İletişim]: abdulsametkarakus@outlook.com "E-posta göndermek için tıklayınız."
+
