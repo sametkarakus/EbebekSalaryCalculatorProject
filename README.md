@@ -1,4 +1,4 @@
-[ebebek] (https://www.e-bebek.com/)
+[ebebek](https://www.e-bebek.com/)
 # EbebekSalaryCalculatorProject
  ## E Bebek Practicum İçin Maaş Hesaplama Projesi
 ** Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazıldı. **
